@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5{
+	font-family: 'Telex', sans-serif !important;
+}
+
+h1{
+	font-size: 80px !important;
+}
+
+h2{
+	font-size: 58px !important;
+}
+
+h3{
+	font-size: 40px !important;
+}
+
+p{
+	font-family: 'Average', sans-serif !important;
+	font-size: 25px !important;
+	color: #051f89 !important;
+}
+
+li{
+	font-family: 'Average', sans-serif !important;
+	font-size: 25px !important;
+	color: #051f89 !important;
+}
+
+blockquote {
+	font-family: 'Average', sans-serif !important;
+	font-size: 25px !important;
+	color: #051f89 !important;
+}

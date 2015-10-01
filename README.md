@@ -1,0 +1,4 @@
+<h1>Boston Scientifc Case Study</h1>
+<p>Presented by: <a href="https://www.linkedin.com/pub/jasmine-mcelroy/35/865/77">Jasmine McElroy</a> | <a href="https://www.linkedin.com/pub/zuri-hunter/14/ba5/748">Zuri Hunter</a> | <a href="https://www.linkedin.com/pub/alexander-roberts/21/b6b/792"> Alex Roberts</a></p>
+
+<p>The sales team of Boston Scientific is the backbone of the organization and wishes to upgrade their core technology that help support and run their business.  This technology specifically are their tablets.  Each tablet administered by the technology team have core sales apps that help monitor and track the progress of their sales representatives in multiple regions  However Boston Scientific is faced with a dilemma. The idea to upgrade their currently technology (iPad) to the latest version or to use another brands tablet. My team created a comprehensive and cost effective plan to help guide their decision in supporting their sales team. </p>
