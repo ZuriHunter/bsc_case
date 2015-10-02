@@ -1,8 +1,8 @@
 {
   "name": "reveal.js",
   "version": "3.x.x",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "description": "Boston Scientific Case Study",
+  "homepage": "http://www.zurihunter.com",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -10,13 +10,13 @@
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Zuri Hunter",
+    "email": "zurihunter92@gmail.com",
+    "web": "http://www.zurihunter.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/ZuriHunter/bsc_case.git"
   },
   "engines": {
     "node": "~0.10.0"
